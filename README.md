@@ -1,4 +1,4 @@
-# development
+# Development
 
 ## Write there ideas,pieces of functions explained, screenshot and problems (or write them in issues section).
 
